@@ -1,5 +1,4 @@
 # gm_8bit 
-
 A module for manipulating voice data in Garry's Mod.
 
 # What does it do?
